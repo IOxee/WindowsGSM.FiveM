@@ -21,7 +21,7 @@ namespace WindowsGSM.Plugins
             name = "WindowsGSM.FiveM", // WindowsGSM.XXXX
             author = "ByBlackDeath",
             description = "WindowsGSM plugin for supporting FiveM Dedicated Server with txAdmin",
-            version = "1.0.1",
+            version = "1.0.2",
             url = "https://github.com/IOxee/WindowsGSM.FiveM", // Github repository link (Best practice)
             color = "#ff7200" // Color Hex 
         };
@@ -47,7 +47,7 @@ namespace WindowsGSM.Plugins
         public FiveM(ServerConfig serverData)
         {
             _serverData = serverData;
-            Additional = $"+set serverProfile \"{GenerateShortUUID()}\" +set txAdminVerbose true"; // I DO NOT ADD ANYTHING HERE OR DELETE THIS LINE
+            Additional = $"+set serverProfile \"{GenerateShortUUID()}\" +set txAdminVerbose true "; // I DO NOT ADD ANYTHING HERE OR DELETE THIS LINE
         }
         private readonly ServerConfig _serverData;
         public string Error, Notice;
