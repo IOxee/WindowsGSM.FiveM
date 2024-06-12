@@ -12,8 +12,8 @@ Just download the server, database and scripts are added manually
 
 # Installation
   1. Download the latest release
-  2. Rename the folder to RedM.cs
-  3. Move RedM.cs folder to plugins folder
+  2. Rename the folder to FiveM.cs
+  3. Move FiveM.cs folder to plugins folder
   4. Click [RELOAD PLUGINS] button or restart WindowsGSM
   
 # Guide
