@@ -18,7 +18,7 @@ Just download the server, database and scripts are added manually
   
 # Guide
 <a href="https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/#windows">
-  <img src=""></img>
+  <img src="https://github.com/IOxee/WindowsGSM.FiveM/assets/48241519/9fd1878c-f329-433f-b4bc-83c88905867e"></img>
 </a>
 
 
